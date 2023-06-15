@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a full stack spotify clone using Next 13, PostgreSQL, supabase, Typescript, Tailwind Css and Radix UI.<br>I'm looking to collaborate on some great web development projects as a front-end developer. <br>I'm currently learning to write some clean code on a great project.<br>Ask me about web-development, JavaScript, React-Native, App development & Front-end development. 
+🔭I'm currently working on a full stack spotify clone using Next 13, PostgreSQL, supabase, Typescript, Tailwind Css and Radix UI.<br>👯‍♂️I'm lookingto collaborate on some great web development projects as a front-end developer. <br>🌱I'm currently learning to write some clean code on a great project.<br>📝Ask me about web-development, JavaScript, React-Native, App development & Front-end development. 
 
 
 ## 🌐 Socials:
