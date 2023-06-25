@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭I'm currently working on a full stack spotify clone using Next 13, PostgreSQL, supabase, Typescript, Tailwind Css and Radix UI.<br>👯‍♂️I'm lookingto collaborate on some great web development projects as a front-end developer. <br>🌱I'm currently learning to write some clean code on a great project.<br>📝Ask me about web-development, JavaScript, React-Native, App development & Front-end development. 
 
+## Projects:
+Take a look at my recent projects
+
+- [Groove-Box](https://github.com/void-main1812/spotify_clone.git)
+- [Talk-Box](https://github.com/void-main1812/TalkBox.git)
+- [Next-Auth](https://github.com/void-main1812/next-auth.git)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabhs1812) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-singh-491792240/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21764208) 
